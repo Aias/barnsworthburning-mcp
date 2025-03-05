@@ -20,7 +20,7 @@ This MCP server provides a tool for searching barnsworthburning.net through the 
 
 ## Usage
 
-Refer to the [Model Context Protocol documentation](https://modelcontextprotocol.io/introduction) for information on how to use MCP servers with compatible clients.
+Refer to the [Model Context Protocol documentation](https://modelcontextprotocol.io/introduction) for information on how to use MCP servers with compatible clients (such as Claude for Desktop or Cursor).
 
 ## Available Tools
 
@@ -30,9 +30,9 @@ This MCP server provides the following tool:
   - Parameters:
     - `query`: The search query to look for on barnsworthburning.net
 
-## Example Queries for Claude
+## Example Queries
 
-Once the server is connected to Claude for Desktop, you can ask questions like:
+Once the server is connected to the client, you can ask questions like:
 
 - "Search barnsworthburning.net for 'design'"
 - "Find articles about typography on barnsworthburning.net"
