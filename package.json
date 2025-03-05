@@ -1,0 +1,40 @@
+{
+  "name": "barnsworthburning-mcp",
+  "version": "1.0.0",
+  "description": "A Model Context Protocol (MCP) server for searching barnsworthburning.net",
+  "main": "./build/index.js",
+  "bin": {
+    "barnsworthburning-mcp": "./build/index.js"
+  },
+  "scripts": {
+    "build": "tsc && node -e \"require('fs').chmodSync('build/index.js', '755')\""
+  },
+  "files": [
+    "build"
+  ],
+  "keywords": [
+    "mcp",
+    "model",
+    "context",
+    "protocol",
+    "barnsworthburning",
+    "barnsworthburning",
+    "llm",
+    "ai",
+    "search"
+  ],
+  "author": {
+    "name": "Nick Trombley",
+    "email": "trombley.nick@gmail.com"
+  },
+  "license": "MIT",
+  "packageManager": "pnpm@9.15.4+sha512.b2dc20e2fc72b3e18848459b37359a32064663e5627a51e4c74b2c29dd8e8e0491483c3abb40789cfd578bf362fb6ba8261b05f0387d76792ed6e23ea3b1b6a0",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.6.1",
+    "zod": "^3.24.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.9",
+    "typescript": "^5.8.2"
+  }
+}
