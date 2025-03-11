@@ -2,6 +2,10 @@
 
 A [Model Context Protocol (MCP)](https://modelcontextprotocol.io/introduction) server for searching [barnsworthburning.net](https://barnsworthburning.net).
 
+<a href="https://glama.ai/mcp/servers/5aibjjzkkb">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/5aibjjzkkb/badge" alt="Barnsworthburning MCP server" />
+</a>
+
 ## Overview
 
 This MCP server provides a tool for searching barnsworthburning.net through the API endpoint at `https://barnsworthburning.net/api/search`. It can be used with Claude for Desktop or any other MCP client.
