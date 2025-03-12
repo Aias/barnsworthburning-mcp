@@ -1,11 +1,12 @@
 # Barnsworthburning MCP
 
-[![smithery badge](https://smithery.ai/badge/@Aias/barnsworthburning-mcp)](https://smithery.ai/server/@Aias/barnsworthburning-mcp)
 A [Model Context Protocol (MCP)](https://modelcontextprotocol.io/introduction) server for searching [barnsworthburning.net](https://barnsworthburning.net).
 
 <a href="https://glama.ai/mcp/servers/5aibjjzkkb">
   <img width="380" height="200" src="https://glama.ai/mcp/servers/5aibjjzkkb/badge" alt="Barnsworthburning MCP server" />
 </a>
+
+[![Smithery Badge](https://smithery.ai/badge/@Aias/barnsworthburning-mcp)](https://smithery.ai/server/@Aias/barnsworthburning-mcp)
 
 ## Overview
 
