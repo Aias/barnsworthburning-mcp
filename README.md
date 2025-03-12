@@ -1,5 +1,6 @@
 # Barnsworthburning MCP
 
+[![smithery badge](https://smithery.ai/badge/@Aias/barnsworthburning-mcp)](https://smithery.ai/server/@Aias/barnsworthburning-mcp)
 A [Model Context Protocol (MCP)](https://modelcontextprotocol.io/introduction) server for searching [barnsworthburning.net](https://barnsworthburning.net).
 
 <a href="https://glama.ai/mcp/servers/5aibjjzkkb">
@@ -12,6 +13,15 @@ This MCP server provides a tool for searching barnsworthburning.net through the 
 
 ## Installation
 
+### Installing via Smithery
+
+To install Barnsworthburning for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@Aias/barnsworthburning-mcp):
+
+```bash
+npx -y @smithery/cli install @Aias/barnsworthburning-mcp --client claude
+```
+
+### Manual Installation
 1. Clone this repository
 2. Install dependencies:
    ```bash
